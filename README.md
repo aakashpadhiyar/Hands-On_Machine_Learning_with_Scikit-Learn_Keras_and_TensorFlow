@@ -38,5 +38,7 @@
     risk. If any code samples or other technology this work contains or describes is subject to open source
     licenses or the intellectual property rights of others, it is your responsibility to ensure that your use
     thereof complies with such licenses and/or rights.
-    
+
+![Book](./images/book.jpg?raw=true "Book")
+
 [Book](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87)
