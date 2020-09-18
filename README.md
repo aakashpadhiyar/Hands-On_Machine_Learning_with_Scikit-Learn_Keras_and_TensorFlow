@@ -39,4 +39,4 @@
     licenses or the intellectual property rights of others, it is your responsibility to ensure that your use
     thereof complies with such licenses and/or rights.
     
-[Book]: https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87
+[Book](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87)
